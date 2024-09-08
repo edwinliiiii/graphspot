@@ -1,2 +1,2 @@
 # graphspot
-graphql practice using spotify api
+graphql microservice leveraging spotify api
